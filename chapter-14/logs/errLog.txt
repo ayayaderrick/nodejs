@@ -1,0 +1,2 @@
+24-04-2025	22:53:27	d7617011-6a19-4d86-8174-cf589b1abb38	TypeError: Cannot read properties of undefined (reading 'id')
+25-04-2025	01:01:03	ca500d4d-3363-484a-beb6-b7c19d94c86a	SyntaxError: Expected ',' or '}' after property value in JSON at position 20

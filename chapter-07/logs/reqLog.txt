@@ -1,0 +1,17 @@
+22-04-2025	12:05:23	327cf9eb-84a7-42a9-99e6-19ce9e9ad3df	GET	undefined	/
+22-04-2025	12:05:24	0c4190ce-ec14-48a7-829b-6e80636222b2	GET	undefined	/css/style.css
+22-04-2025	12:15:27	ea33458e-1ace-48b8-9a40-e9e76fd5d88e	GET	https://www.google.com	/
+22-04-2025	12:30:59	e7f24eb8-02ea-41a8-91f9-8936000b340f	GET	https://www.google.com	/
+22-04-2025	12:31:19	52363224-ec7a-42fc-8313-e20d76c6d0dd	GET	https://www.google.com	/
+22-04-2025	12:32:24	bf7b9430-44d5-4735-975e-d2716053785c	GET	https://www.google.com	/
+22-04-2025	12:33:34	26e64aac-ce8c-4793-bdb3-b5790793e744	GET	https://www.google.com	/
+22-04-2025	12:34:07	891bd3e5-4b4d-4e64-8025-21fe81fc489d	GET	https://www.google.com	/
+22-04-2025	12:49:17	813c0e7b-2c3e-47ff-bf52-d94c37543658	GET	undefined	/
+22-04-2025	12:49:18	c8e51a5d-1d9c-4bc7-b9f8-73ce3d1b4646	GET	undefined	/favicon.ico
+22-04-2025	12:50:23	c90ca5c3-f074-4a45-85a4-06b8efe5de47	GET	undefined	/
+22-04-2025	12:52:40	16ad87f4-3496-471f-85ee-fde5f6276cb6	GET	undefined	/
+22-04-2025	12:52:41	0eeec0b8-b739-4f6f-a06c-95f3e21322b8	GET	undefined	/css/style.css
+22-04-2025	12:55:21	202cf0e5-c15a-4ee1-868e-dc04d4e03d0c	GET	undefined	/about
+22-04-2025	12:55:21	70d14248-613e-4abf-98bb-13176c96efe3	GET	undefined	/css/style.css
+22-04-2025	13:00:18	a2ab7fb5-9003-496d-b12b-0566b6e05a91	GET	undefined	/about
+22-04-2025	13:00:18	3f17555c-ce77-47e7-8543-d22790d78028	GET	undefined	/css/style.css
